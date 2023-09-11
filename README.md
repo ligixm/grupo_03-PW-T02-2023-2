@@ -1,9 +1,9 @@
-# quiz
+# Quiz
 Trabalho Prog Web tema 1 - quiz
 
 # Participantes 
-Felipe Pellissari
-Lígia Maria Nogueira
+Felipe Pellissari,
+Lígia Maria Nogueira,
 Vinicius Wagner 
 
 # Link do protótipo 
